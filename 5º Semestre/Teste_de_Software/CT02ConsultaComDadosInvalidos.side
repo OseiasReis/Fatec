@@ -1,0 +1,89 @@
+{
+  "id": "4ba31c98-cf95-4146-88f1-667c4c0b0d86",
+  "version": "2.0",
+  "name": "CT02ConsultaComDadosInvalidos",
+  "url": "http://www.buscacep.correios.com.br",
+  "tests": [{
+    "id": "49186363-a516-4e5c-8b87-dd43bbc10261",
+    "name": "CT02ConsultaComDadosInvalidos",
+    "commands": [{
+      "id": "b73edd42-9401-4af0-b697-485678b87ae5",
+      "comment": "",
+      "command": "open",
+      "target": "/sistemas/buscacep/buscaCep.cfm",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e5372df1-a528-4af9-a9e6-5aba89bbb57e",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "952x526",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fe03db31-ca42-4f96-a49e-705fa04f7479",
+      "comment": "",
+      "command": "click",
+      "target": "name=UF",
+      "targets": [
+        ["name=UF", "name"],
+        ["css=.f1col", "css:finder"],
+        ["xpath=//select[@name='UF']", "xpath:attributes"],
+        ["xpath=//form[@id='Geral']/div/div/span[2]/label/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"],
+        ["xpath=//select[contains(.,'AC\nAL\nAM\nAP\nBA\nCE\nDF\nES\nGO\nMA\nMG\nMS\nMT\nPA\nPB\nPE\nPI\nPR\nRJ\nRN\nRO\nRR\nRS\nSC\nSE\nSP\nTO')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "80e1d0d7-604d-4867-8748-08ceb7a9657f",
+      "comment": "",
+      "command": "select",
+      "target": "name=UF",
+      "targets": [],
+      "value": "label=SP"
+    }, {
+      "id": "2cb6e7ba-f6ac-4130-bfa3-374a88502985",
+      "comment": "",
+      "command": "click",
+      "target": "name=UF",
+      "targets": [
+        ["name=UF", "name"],
+        ["css=.f1col", "css:finder"],
+        ["xpath=//select[@name='UF']", "xpath:attributes"],
+        ["xpath=//form[@id='Geral']/div/div/span[2]/label/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"],
+        ["xpath=//select[contains(.,'AC\nAL\nAM\nAP\nBA\nCE\nDF\nES\nGO\nMA\nMG\nMS\nMT\nPA\nPB\nPE\nPI\nPR\nRJ\nRN\nRO\nRR\nRS\nSC\nSE\nSP\nTO')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "599a4531-bad7-4df1-8ec5-2d9238731b12",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn2",
+      "targets": [
+        ["css=.btn2", "css:finder"],
+        ["xpath=//input[@value='Buscar']", "xpath:attributes"],
+        ["xpath=//form[@id='Geral']/div/div/div[4]/input", "xpath:idRelative"],
+        ["xpath=//div[4]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0c7daa5d-e036-4da4-b072-1a003b0573d2",
+      "comment": "",
+      "command": "assertAlert",
+      "target": "Informe o nome da cidade, município, distrito ou povoado !",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "0b596e25-74eb-439d-88ee-82514702954b",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["49186363-a516-4e5c-8b87-dd43bbc10261"]
+  }],
+  "urls": ["http://www.buscacep.correios.com.br/"],
+  "plugins": []
+}

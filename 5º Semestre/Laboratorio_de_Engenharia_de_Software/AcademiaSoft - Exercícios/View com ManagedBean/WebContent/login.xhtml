@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html">
+<h:head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>Gestão de Produtos</title>
+</h:head>
+<h:body>
+	<h:form>
+		<h2>Gestão de Produtos</h2>
+		<h:panelGrid columns="2">
+			<h:outputText value="ID : " />
+			<h:inputText name="txtId" value="${produtoMB.produtoAtual.id}" />
+			<h:outputText value="Nome : " />
+			<h:inputText name="txtNome" value="${produtoMB.produtoAtual.nome}" />
+			<h:outputText value="Descricao : " />
+			<h:inputTextarea name="txtDescricao" rows="5"
+				value="${produtoMB.produtoAtual.descricao}" />
+			<h:outputText value="Validade : " />
+			<h:inputText name="txtValidade"	value="${produtoMB.produtoAtual.validade}">
+				<f:convertDateTime pattern="dd/MM/yyyy" locale="pt,BR"
+					timeZone="Brazil/East" />
+			</h:inputText>
+
+			<h:panelGroup>
+				<h:commandButton value="Inserir" name="cmd" action="${produtoMB.inserir()}" />
+				<h:commandButton value="Atualizar" name="cmd" action="${produtoMB.atualizar()}"/>
+			</h:panelGroup>
+			<h:panelGroup>
+				<h:commandButton value="Remover" name="cmd" action="${produtoMB.remover()}"/>
+				<h:commandButton value="Pesquisar" name="cmd" action="${produtoMB.pesquisar()}"/>
+			</h:panelGroup>
+		</h:panelGrid>
+	</h:form>
+</h:body>
+</html>

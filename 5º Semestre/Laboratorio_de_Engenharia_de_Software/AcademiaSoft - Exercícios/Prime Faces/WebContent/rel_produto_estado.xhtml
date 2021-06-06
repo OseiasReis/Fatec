@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:h="http://java.sun.com/jsf/html"
+	  xmlns:f="http://java.sun.com/jsf/core"
+	  xmlns:p="http://primefaces.org/ui">
+<h:head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>Gestão de Produto</title>
+</h:head>
+<h:body>
+	<h2>Gestão de Produtos</h2>
+	<h:form>
+		<p:messages/>
+		<h:panelGrid columns="3">
+			<h:outputText value="ID : "/>
+			<h:inputText id="txtId" name="txtId" value="${produtoMB.prodAtual.id}" readonly="true"/>
+			<p:message for="txtId"/>
+			
+			<h:outputText value="Nome : "/>
+			<h:inputText id="txtName" name="txtNome" value="${produtoMB.prodAtual.nome}"
+						 validatorMessage="O nome deve conter entre 5 e 200 caracteres">
+				<f:validateLength minimum="5" maximum="200"/>
+			</h:inputText>
+			<p:message for="txtName"/>
+			
+			<h:outputText value="Descricao : "/>
+			<h:inputText id="txtDescricao" name="txtDescricao" value="${produtoMB.prodAtual.descricao}"/>
+			<p:message for="txtDescricao" closable="true"/>
+			
+			<h:outputText value="Validade : "/>
+			<h:inputText name="txtValidade" 
+						 id="txtValidade"
+			             value="${produtoMB.prodAtual.validade}"
+			             validator="${produtoMB.testaValidade}">
+				<f:convertDateTime pattern="dd/MM/yyyy" locale="pt,BR" timeZone="Brazil/East"/>  
+			</h:inputText>
+			<p:message for="txtValidade" showSummary="true" showDetail="false"/>
+			
+			<h:panelGroup>
+				<h:commandButton name="cmd" value="Inserir" action="${produtoMB.inserir()}"/>
+				<h:commandButton name="cmd" value="Atualizar" action="${produtoMB.atualizar()}"/>												
+			</h:panelGroup>
+			<h:commandButton name="cmd" value="Pesquisar Todos" action="${produtoMB.pesquisarTodos()}"/>
+			<h:commandButton name="cmd" value="Pesquisar" action="${produtoMB.pesquisar()}"/>
+			
+		</h:panelGrid>
+		<h:dataTable	value="${produtoMB.produtos}" 
+						var="prod" 
+						border="2"
+						rendered="${not empty produtoMB.produtos}">
+			<h:column>
+				<h:commandLink action="${produtoMB.carregar(prod)}">
+					${prod.id}
+				</h:commandLink>
+				<f:facet name="header">ID</f:facet>
+			</h:column>	
+			<h:column>${prod.nome}
+				<f:facet name="header">Nome</f:facet>
+			</h:column>
+			<h:column>${prod.descricao}
+				<f:facet name="header">Descricao</f:facet>
+			</h:column>
+			<h:column>${prod.validade}
+				<f:facet name="header">Validade</f:facet>
+			</h:column>
+			<h:column>
+				<h:commandButton name="cmd" value="Remover" 
+								 action="${produtoMB.remover(prod)}" 
+									/>
+				<f:facet name="header">Ação</f:facet>
+			</h:column>			
+		</h:dataTable>
+	</h:form>
+</h:body>
+</html>
