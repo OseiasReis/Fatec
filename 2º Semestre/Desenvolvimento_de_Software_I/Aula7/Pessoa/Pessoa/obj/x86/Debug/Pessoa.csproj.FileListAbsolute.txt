@@ -1,0 +1,5 @@
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Pessoa\Pessoa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Pessoa\Pessoa\bin\Debug\Pessoa.exe
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Pessoa\Pessoa\obj\x86\Debug\Pessoa.exe
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Pessoa\Pessoa\obj\x86\Debug\Pessoa.pdb

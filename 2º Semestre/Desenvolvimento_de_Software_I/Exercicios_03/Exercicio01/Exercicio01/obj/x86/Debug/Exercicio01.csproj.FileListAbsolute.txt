@@ -1,0 +1,9 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicio01\Exercicio01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicio01\Exercicio01\obj\x86\Debug\Exercicio01.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicio01\Exercicio01\obj\x86\Debug\Exercicio01.pdb
+E:\2º Semestre\TDS\Exercicios 06_10\Exercicio01\Exercicio01\obj\x86\Debug\Exercicio01.exe
+E:\2º Semestre\TDS\Exercicios 06_10\Exercicio01\Exercicio01\obj\x86\Debug\Exercicio01.pdb
+E:\2º Semestre\TDS\Exercicios 06_10\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+E:\2º Semestre\TDS\Exercicios 06_10\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula9_Exemplos4\Aula9_Exemplos4\bin\Debug\Aula9_Exemplos4.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula9_Exemplos4\Aula9_Exemplos4\bin\Debug\Aula9_Exemplos4.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula9_Exemplos4\Aula9_Exemplos4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula9_Exemplos4\Aula9_Exemplos4\obj\x86\Debug\Aula9_Exemplos4.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula9_Exemplos4\Aula9_Exemplos4\obj\x86\Debug\Aula9_Exemplos4.pdb
+E:\2º Semestre\DS\Aula9\Aula9_Exemplos4\Aula9_Exemplos4\obj\x86\Debug\Aula9_Exemplos4.exe
+E:\2º Semestre\DS\Aula9\Aula9_Exemplos4\Aula9_Exemplos4\obj\x86\Debug\Aula9_Exemplos4.pdb

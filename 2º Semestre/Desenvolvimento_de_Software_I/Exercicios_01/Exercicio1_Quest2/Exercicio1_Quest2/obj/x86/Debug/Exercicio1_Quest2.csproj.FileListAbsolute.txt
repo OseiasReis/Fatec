@@ -1,0 +1,5 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Exercicio1_Quest2\bin\Debug\Exercicio1_Quest2.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Exercicio1_Quest2\bin\Debug\Exercicio1_Quest2.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Exercicio1_Quest2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Exercicio1_Quest2\obj\x86\Debug\Exercicio1_Quest2.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Exercicio1_Quest2\obj\x86\Debug\Exercicio1_Quest2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula2_Exemplo3\bin\Debug\Aula2_Exemplo3.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula2_Exemplo3\bin\Debug\Aula2_Exemplo3.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula2_Exemplo3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula2_Exemplo3\obj\x86\Debug\Aula2_Exemplo3.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula2_Exemplo3\obj\x86\Debug\Aula2_Exemplo3.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula2_Exemplo3\Aula2_Exemplo3\obj\x86\Debug\Aula2_Exemplo3.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula2_Exemplo3\Aula2_Exemplo3\obj\x86\Debug\Aula2_Exemplo3.pdb

@@ -1,0 +1,9 @@
+C:\Users\Oséias\Documents\Visual Studio 2010\Projects\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe
+C:\Users\Oséias\Documents\Visual Studio 2010\Projects\Exercicio02\Exercicio02\bin\Debug\Exercicio02.pdb
+C:\Users\Oséias\Documents\Visual Studio 2010\Projects\Exercicio02\Exercicio02\obj\x86\Debug\Exercicio02.exe
+C:\Users\Oséias\Documents\Visual Studio 2010\Projects\Exercicio02\Exercicio02\obj\x86\Debug\Exercicio02.pdb
+F:\2º Semestre\TDS\Exercicios 26_10\Exercicio02\Exercicio02\obj\x86\Debug\Exercicio02.exe
+F:\2º Semestre\TDS\Exercicios 26_10\Exercicio02\Exercicio02\obj\x86\Debug\Exercicio02.pdb
+F:\2º Semestre\TDS\Exercicios 26_10\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe
+F:\2º Semestre\TDS\Exercicios 26_10\Exercicio02\Exercicio02\bin\Debug\Exercicio02.pdb
+F:\2º Semestre\TDS\Exercicios 26_10\Exercicio02\Exercicio02\obj\x86\Debug\ResolveAssemblyReference.cache
