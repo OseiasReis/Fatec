@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8"/>
+		<title>JavaScript</title>
+		<script>
+			function acendeLamapada()
+			{
+				document.getElementById("luz").src="img/lampada-acesa.jpg";
+			}
+		</script>
+	</head>
+	<body>
+		<h1>Acenda a lâmpada</h1>
+		<img src="img/lampada-apagada.jpg" id="luz" onmouseover="acendeLamapada()" 
+		onmouseout="apagaLampada()" onclick="quebraLampada()"/>
+		
+		</body>
+	</html>
+	
+	<!--
+	alert = popup;
+	document.write = mensagem na tela, depois do alert;
+	onmousemove = mudar imagem ao passar o mouse por cima;
+	onclick = mudar img ao clickar;
+	onmouseout = tirar o mouse da img ela muda;
+	-->
