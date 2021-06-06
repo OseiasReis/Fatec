@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E7E7500B-9673-41DF-9DA3-712E84799711}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projeto_Escola</RootNamespace>
+    <AssemblyName>Projeto_Escola</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cadastro_De_Alunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro_De_Alunos.Designer.cs">
+      <DependentUpon>Cadastro_De_Alunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro_Disciplinas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro_Disciplinas.Designer.cs">
+      <DependentUpon>Cadastro_Disciplinas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexao.cs" />
+    <Compile Include="Consulta Analitica Aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta Analitica Aluno.Designer.cs">
+      <DependentUpon>Consulta Analitica Aluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta Analitica Disciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta Analitica Disciplina.Designer.cs">
+      <DependentUpon>Consulta Analitica Disciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta Analitica Mencao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta Analitica Mencao.Designer.cs">
+      <DependentUpon>Consulta Analitica Mencao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta Cadastral de Alunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta Cadastral de Alunos.Designer.cs">
+      <DependentUpon>Consulta Cadastral de Alunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta Cadastral Disciplinas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta Cadastral Disciplinas.Designer.cs">
+      <DependentUpon>Consulta Cadastral Disciplinas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EscolaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EscolaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notas Aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notas Aluno.Designer.cs">
+      <DependentUpon>Notas Aluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Relatorio Analitico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorio Analitico.Designer.cs">
+      <DependentUpon>Relatorio Analitico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios Cadastrais Alunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios Cadastrais Alunos.Designer.cs">
+      <DependentUpon>Relatorios Cadastrais Alunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios Cadastrais Disciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios Cadastrais Disciplina.Designer.cs">
+      <DependentUpon>Relatorios Cadastrais Disciplina.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Cadastro_De_Alunos.resx">
+      <DependentUpon>Cadastro_De_Alunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro_Disciplinas.resx">
+      <DependentUpon>Cadastro_Disciplinas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta Analitica Aluno.resx">
+      <DependentUpon>Consulta Analitica Aluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta Analitica Disciplina.resx">
+      <DependentUpon>Consulta Analitica Disciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta Analitica Mencao.resx">
+      <DependentUpon>Consulta Analitica Mencao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta Cadastral de Alunos.resx">
+      <DependentUpon>Consulta Cadastral de Alunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta Cadastral Disciplinas.resx">
+      <DependentUpon>Consulta Cadastral Disciplinas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notas Aluno.resx">
+      <DependentUpon>Notas Aluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Relatorio Analitico.resx">
+      <DependentUpon>Relatorio Analitico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios Cadastrais Alunos.resx">
+      <DependentUpon>Relatorios Cadastrais Alunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios Cadastrais Disciplina.resx">
+      <DependentUpon>Relatorios Cadastrais Disciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="EscolaDataSet.xsc">
+      <DependentUpon>EscolaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="EscolaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EscolaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EscolaDataSet.xss">
+      <DependentUpon>EscolaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Escola.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\Etec-Cursos.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

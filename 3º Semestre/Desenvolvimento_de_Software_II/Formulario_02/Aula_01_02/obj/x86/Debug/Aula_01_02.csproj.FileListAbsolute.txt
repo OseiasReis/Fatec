@@ -1,0 +1,11 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula_01_02\Aula_01_02\bin\Debug\Aula_01_02.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula_01_02\Aula_01_02\bin\Debug\Aula_01_02.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula_01_02\Aula_01_02\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula_01_02\Aula_01_02\obj\x86\Debug\Aula_01_02.Form1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula_01_02\Aula_01_02\obj\x86\Debug\Aula_01_02.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula_01_02\Aula_01_02\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula_01_02\Aula_01_02\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula_01_02\Aula_01_02\obj\x86\Debug\Aula_01_02.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Aula_01_02\Aula_01_02\obj\x86\Debug\Aula_01_02.pdb
+G:\3º Semestre\DS2\Aula_01_02\Aula_01_02\obj\x86\Debug\Aula_01_02.exe
+G:\3º Semestre\DS2\Aula_01_02\Aula_01_02\obj\x86\Debug\Aula_01_02.pdb

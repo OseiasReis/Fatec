@@ -1,0 +1,27 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.Properties.Resources.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.Form1.resources
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.Properties.Resources.resources
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.exe.config
+E:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.exe.config
+E:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.Properties.Resources.resources
+E:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\BD_Cliente.accdb
+E:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.exe
+E:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.pdb
+E:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.frm_Cadastro.resources
+E:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.exe
+E:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.pdb
+G:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.exe.config
+G:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.exe
+G:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.pdb
+G:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.frm_Cadastro.resources
+G:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.Properties.Resources.resources
+G:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.csproj.GenerateResource.Cache
+G:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\BD_Cliente.accdb
+G:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.exe
+G:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.pdb
+G:\3º Semestre\DS2\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.csprojResolveAssemblyReference.cache
