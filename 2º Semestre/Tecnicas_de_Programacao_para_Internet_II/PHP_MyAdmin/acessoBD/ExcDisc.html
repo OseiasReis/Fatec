@@ -1,0 +1,39 @@
+﻿<html>
+<head>
+<title>Exclusão de Disciplinas</title>
+
+<script language="javascript">
+function blokletras(objEvent)
+{
+var ikeyCode;
+ikeyCode=objEvent.keyCode;
+if (ikeyCode>=48 && ikeyCode<=57) return true;
+return false;
+}
+
+function varifica(){
+msg = "Tem certeza que deseja continuar?";
+return confirm (msg);
+}
+</script>
+</head>
+	<body class="body">
+		<div align=center>
+			<form action="ExcDisc.php"method="POST">
+				<table class="menu">
+					<tr>
+						<th bgcolor=lightgrey align=center colspan=2>Exclusão de Disciplinas</th>
+					</tr>
+					<tr>
+						<td><b>Código da Disciplina:</b><td><INPUT NAME="txtcoddisc" TYPE="TEXT" onkeypress="return blokletras(event)"></td>
+					</tr>
+					<tr>
+						<td colspan=2>
+						<INPUT NAME="Excluir" TYPE="SUBMIT" VALUE=EXCLUIR onclick="return verifica()"></td>
+					</tr>
+
+				</table>
+			</form>
+		</div>
+	</body>
+</html>

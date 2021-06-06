@@ -1,0 +1,29 @@
+<DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/ >
+	<title> Personalização </title>
+</head>
+<body>
+	<form method="get" action="dados_1.php">
+		<fieldset>
+			<legend>Personalizar Texto</legend>
+				<label for="cTexto"> Texto:</label>
+				<input type="text" name="tTexto" in="cTexto" /> <br />
+				
+				<label for="cTam">Tamanho: </label>
+				<select name="tTam" id="cTam" />
+					<option value="8pt">8</option>
+					<option value="10pt">10</option>
+					<option value="12pt">12</option>
+					<option value="14pt">14</option>
+					<option value="16pt">16</option>
+					<option value="32pt">32</option>
+				</select> <br />
+				<label for="cCor">Cor: </label>
+				<input type="color" name="tCor" id="cCor" /><br />
+				<input type="submit" name="tEnviar" value="Gerar" />
+		</fieldset>
+	</form>
+</body>
+</html>

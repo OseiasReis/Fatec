@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8"/>
+<title>Exercicio 11</title>
+</head>
+<body>
+	<form method="get" action="lista1_exe11.php">
+		<fieldset id="linha1" style="width:260px;height:130px;">
+			<legend><b>Partida de Futebol</b></legend>
+				<label for="cHI"><br /><b>Inicio do Jogo:</b></label>
+				<input type="number" name="tHI" id="cHI" min="0" max="23" placeholder="Hora"/>
+				<input type="number" name="tMI" id="cMI" min="0" max="59" placeholder="Minuto"/><br /><br />
+				<label for="cHT"><b>Termino do Jogo:</b></label>
+				<input type="number" name="tHT" id="cHT" min="0" max="23" placeholder="Horario"/>
+				<input type="number" name="tMT" id="cMT" min="0" max="59" placeholder="Minutos"/><br /><br />
+				<input type="submit" name="tEnviar" value="Enviar" />
+		</fieldset>
+	</form>
+</body>
+</html>
