@@ -1,0 +1,118 @@
+* { margin: 0px; padding: 0px; font-family: Arial; text-decoration: none; }
+
+body { background: #F4F4F4; }
+
+header { width: 100%; max-width: 1360px; margin: auto; background: url(../_img/_header/header-bg.jpg) center no-repeat; display: table; }
+
+#bannerlogin { width: 90%; height: 30px; padding: 0px 5%; float: left; background: #F4F4F4; }
+#msgboasvindas { width: 50%; height: 30px; float: left; }
+#msgboasvindas p { margin: 5px; color: #3A6FBF; font-weight: 600; }
+#login { width: 50%; height: 30px; float: right; }
+.login { width: 100%; height: 30px; }
+.login * { transition: all .5s; }
+.login ul { width: auto; float: right; display: table; list-style: none; }
+.login ul li { float: left; display: table; }
+.login ul li a { padding: 5px 5px; display: block; text-decoration: none; color: #3A6FBF; }
+.login ul li a:hover { background: #FFF; color: #333333; }
+#containerlogin { position: absolute; width: 250px; height: 200px; top: 0px; left: 50%; margin-left: 10%; background: url(../_img/_header/menu-bg.jpg); z-index: 500; }
+#containerlogintotal { position: absolute; width: 100%; height: 100%; top: 0px; left: 0px; z-index: 400; }
+#bannertop { width: 90%; height: 100px; margin: auto; }
+#logo { width: 45%; height: auto; float: left; }
+#logo img { width: 100%; max-width: 280px; }
+#busca { width: 55%; height: auto; float: right; }
+#busca * { transition: all .5s; }
+#busca .busca { width: 50%; height: 50px; float: right; margin: 24px 0 24px 0px; font-size: 16px; color: #333333; border: 0; }
+#busca .busca:focus { color: #333; }
+#busca .bt-busca { width: 50px; height: 50px; margin: 24px 0px 24px 0px; float: right; background: url(../_img/_header/btn_busca.png) #C8C8C8; border: 0; }
+#busca .bt-busca:hover { background: url(../_img/_header/btn_busca.png) #3969B5; }
+#menu { width: 90%; height: 50px; padding: 0px 5%; float: left; background: url(../_img/_header/header-bg2.jpg); }
+.menu { width: 70%; height: 50px; }
+.menu * { transition: all .5s; }
+.menu ul { width: auto; float: left; display: table; list-style: none; }
+.menu ul li { float: left; display: table; }
+.menu ul li a { padding: 16px 11px; margin: 0px 0px; display: block; text-decoration: none; color: #FFFFFF; }
+.menu ul li a:hover { background: #FFFFFF; color: #333333; }
+.menu ul li ul { position: absolute; width: auto; max-width: 750px; margin-top: 00px; display: none; background: url(../_img/_header/menu-bg2.jpg); z-index: 100; }
+.menu ul li:hover ul { display: block; animation: menudown .5s ; opacity: 1; }
+.menu ul li ul li { width: 250px; float: left; }
+.menu ul li ul li a { width: 230px; height: 100%; padding: 10px 5px 10px 5px; margin: 0px; font-size: 16px; }
+
+#bannertopb { position: fixed; top: 0px; left: 0px; width: 100%; height: 70px; margin: auto; z-index: 150; background: url(../_img/_header/header-bg.jpg) center no-repeat; background-size: 100%; }
+#logob { width: 25%; height: auto; float: left; }
+#logob img { width: 100%; max-width: 200px; }
+#buscab { width: 50%; height: auto; float: left; }
+#buscab * { transition: all .5s; }
+#buscab .buscab { width: 80%; height: 50px; float: right; margin: 10px 0 10px 0px; font-size: 16px; color: #333333; border: 0; }
+#buscab .buscab:focus { color: #333; }
+#buscab .bt-buscab { width: 50px; height: 50px; margin: 10px 0px 10px 0px; float: right; background: url(../_img/_header/btn_busca.png) #C8C8C8; border: 0; }
+#buscab .bt-buscab:hover { background: url(../_img/_header/btn_busca.png) #3969B5; }
+#menub { width: 25%; height: auto; float: right; }
+.menub { width: 100%; height: 70px; }
+.menub * { transition: all .5s; }
+.menub ul { width: auto; float: right; display: table; list-style: none; }
+.menub ul li { float: left; display: table; }
+.menub ul li a { padding: 20px 10px; margin: 5px 0px; display: block; text-decoration: none; color: #FFFFFF; }
+.menub ul li a:hover { background: #FFFFFF; color: #333333; }
+.menub ul li ul { position: absolute; width: 250px; margin-top: -20px; display: none; background: url(../_img/_header/menu-bg.jpg); z-index: 100; }
+.menub ul li:hover ul { display: block; animation: menudown .5s ; opacity: 1; }
+.menub ul li ul li { float: none; }
+.menub ul li ul li a { padding: 20px 90% 20px 10%; margin: 0px; }
+
+@keyframes menudown {
+    0% { opacity: 0; margin-top: -50px; }
+    100% { opacity: 1; margin-top: 0px; }
+}
+
+center { width: 100%; max-width: 1360px; margin: auto; background: #FFF; }
+
+section { width: 90%; height: auto; margin: 25px auto; display: table; }
+#bandeja { width: 100%; display: table; }
+
+/* resultado busca */
+
+.resultado_busca * { transition: all .2s; }
+.resultado_busca * :hover { color: #3F8CD2; }
+.resultado_busca { list-style: none; }
+.resultado_busca li { width: 19%; margin: .5%; float: left; background: #FFFFFF; }
+.resultado_busca li:hover { box-shadow: 2px 2px 2px #333333; background: #F1F1F1; }
+.resultado_busca h3 { height: 40px; font-size: 14px; color: #333; display: block; } 
+.resultado_busca h4 { font-size: 12px; color: #333; }
+.resultado_busca p { font-size: 11px; color: #333; }
+.resultado_busca img { width: 160px; height: 200px; margin: 10px auto; }
+
+/* busca personalizada */
+
+#fildgenero { width: 90%; height: auto; margin: auto; text-align: justify; border: 0px; margin: 5%; }
+#buscapersonalizada { width: 100%; height: auto; }
+#buscapersonalizada * { transition: all .5s; }
+#buscapersonalizada .tipo { width: 10%; height: 50px; margin: 24px 0px 24px 10px; font-size: 16px; color: #333333; }
+#buscapersonalizada .busca { width: 70%; height: 50px; margin: 24px 0px 24px 10px; font-size: 16px; color: #333333; }
+#buscapersonalizada .busca:focus { color: #333; }
+#buscapersonalizada .genero { margin: 10px; }
+#buscapersonalizada .bt-buscapersonalizada { width: 150px; height: 50px; float: right; margin: 24px 0px 24px 0px;  background: url(../_img/btn_buscapersonalizada.png) #C8C8C8; border: 0; }
+#buscapersonalizada .bt-buscapersonalizada:hover { background: url(../_img/btn_buscapersonalizada.png) #3969B5; }
+
+/* pagina de informação sobre o livro */
+
+#sobre { width: 100%; text-align: justify; color: #333333; display: table; margin: 50px 0px; }
+#sobre h1 { font-size: 40px; margin: 10px; color: #3F8CD2; }
+#sobre h2 { font-size: 25px; margin: 10px; }
+#sobre h3 { font-size: 14px; margin: 10px; }
+#sobre .destaque img { width: 270px; height: 338px; float: left; margin-right: 80px; }
+
+/* contato */
+#contato .left { width: 70%; display: table; float: left; }
+#contato .right { width: 30%; display: table; float: right; text-align: left; }
+#contato .right h3 { margin: 10px 5px; }
+#contato .right p { margin: 5px; }
+
+#formcontato label { width: 20%; height: 50px; display: block; float: left; text-align: left; }
+#formcontato input { width: 75%; height: 50px; display: block; }
+#formcontato #Msgm { width: 75%; height: 150px; display: block; }
+#formcontato #botao { width: 15%; height: 50px; display: block; float: left; }
+
+footer { width: 100%; max-width: 1360px; margin: 0px auto; background: #333; color: #FFFFFF; display: table; }
+
+#linksfooter { width: 90%; height: 100px; padding: 0px 5%; }
+#footer { width: 90%; padding: 0px 5%; background: #000000; display: table; }
+#footer p { font-size: 10px; }
