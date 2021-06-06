@@ -1,9 +1,0 @@
-C:\Users\Aluno\documents\visual studio 2010\Projects\TestandoCheckBox\TestandoCheckBox\bin\Debug\TestandoCheckBox.exe
-C:\Users\Aluno\documents\visual studio 2010\Projects\TestandoCheckBox\TestandoCheckBox\bin\Debug\TestandoCheckBox.pdb
-C:\Users\Aluno\documents\visual studio 2010\Projects\TestandoCheckBox\TestandoCheckBox\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Aluno\documents\visual studio 2010\Projects\TestandoCheckBox\TestandoCheckBox\obj\x86\Debug\TestandoCheckBox.frmFazendoPedido.resources
-C:\Users\Aluno\documents\visual studio 2010\Projects\TestandoCheckBox\TestandoCheckBox\obj\x86\Debug\TestandoCheckBox.Properties.Resources.resources
-C:\Users\Aluno\documents\visual studio 2010\Projects\TestandoCheckBox\TestandoCheckBox\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\Aluno\documents\visual studio 2010\Projects\TestandoCheckBox\TestandoCheckBox\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\Aluno\documents\visual studio 2010\Projects\TestandoCheckBox\TestandoCheckBox\obj\x86\Debug\TestandoCheckBox.exe
-C:\Users\Aluno\documents\visual studio 2010\Projects\TestandoCheckBox\TestandoCheckBox\obj\x86\Debug\TestandoCheckBox.pdb

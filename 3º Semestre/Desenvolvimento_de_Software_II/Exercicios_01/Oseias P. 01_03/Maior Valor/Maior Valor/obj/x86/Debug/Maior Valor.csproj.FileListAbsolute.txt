@@ -1,9 +1,0 @@
-C:\Users\Aluno\documents\visual studio 2010\Projects\Maior Valor\Maior Valor\bin\Debug\Maior Valor.exe
-C:\Users\Aluno\documents\visual studio 2010\Projects\Maior Valor\Maior Valor\bin\Debug\Maior Valor.pdb
-C:\Users\Aluno\documents\visual studio 2010\Projects\Maior Valor\Maior Valor\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Aluno\documents\visual studio 2010\Projects\Maior Valor\Maior Valor\obj\x86\Debug\Maior_Valor.Form1.resources
-C:\Users\Aluno\documents\visual studio 2010\Projects\Maior Valor\Maior Valor\obj\x86\Debug\Maior_Valor.Properties.Resources.resources
-C:\Users\Aluno\documents\visual studio 2010\Projects\Maior Valor\Maior Valor\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\Aluno\documents\visual studio 2010\Projects\Maior Valor\Maior Valor\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\Aluno\documents\visual studio 2010\Projects\Maior Valor\Maior Valor\obj\x86\Debug\Maior Valor.exe
-C:\Users\Aluno\documents\visual studio 2010\Projects\Maior Valor\Maior Valor\obj\x86\Debug\Maior Valor.pdb

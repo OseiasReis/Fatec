@@ -1,5 +1,0 @@
-C:\Users\Aluno\documents\visual studio 2010\Projects\exercicio03\exercicio03\bin\Debug\exercicio03.exe
-C:\Users\Aluno\documents\visual studio 2010\Projects\exercicio03\exercicio03\bin\Debug\exercicio03.pdb
-C:\Users\Aluno\documents\visual studio 2010\Projects\exercicio03\exercicio03\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Aluno\documents\visual studio 2010\Projects\exercicio03\exercicio03\obj\x86\Debug\exercicio03.exe
-C:\Users\Aluno\documents\visual studio 2010\Projects\exercicio03\exercicio03\obj\x86\Debug\exercicio03.pdb

@@ -1,5 +1,0 @@
-E:\2º Semestre\TDS\Aula1_Exemplo5\Aula1_Exemplo5\bin\Debug\Aula1_Exemplo5.exe
-E:\2º Semestre\TDS\Aula1_Exemplo5\Aula1_Exemplo5\bin\Debug\Aula1_Exemplo5.pdb
-E:\2º Semestre\TDS\Aula1_Exemplo5\Aula1_Exemplo5\obj\x86\Debug\ResolveAssemblyReference.cache
-E:\2º Semestre\TDS\Aula1_Exemplo5\Aula1_Exemplo5\obj\x86\Debug\Aula1_Exemplo5.exe
-E:\2º Semestre\TDS\Aula1_Exemplo5\Aula1_Exemplo5\obj\x86\Debug\Aula1_Exemplo5.pdb

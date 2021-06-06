@@ -1,7 +1,0 @@
-C:\Users\Aluno\documents\visual studio 2010\Projects\Aula2_Exemplo6\Aula2_Exemplo6\bin\Debug\Aula2_Exemplo6.exe
-C:\Users\Aluno\documents\visual studio 2010\Projects\Aula2_Exemplo6\Aula2_Exemplo6\bin\Debug\Aula2_Exemplo6.pdb
-C:\Users\Aluno\documents\visual studio 2010\Projects\Aula2_Exemplo6\Aula2_Exemplo6\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Aluno\documents\visual studio 2010\Projects\Aula2_Exemplo6\Aula2_Exemplo6\obj\x86\Debug\Aula2_Exemplo6.exe
-C:\Users\Aluno\documents\visual studio 2010\Projects\Aula2_Exemplo6\Aula2_Exemplo6\obj\x86\Debug\Aula2_Exemplo6.pdb
-C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Aula2_Exemplo5.2\Aula2_Exemplo6\obj\x86\Debug\Aula2_Exemplo6.exe
-C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Aula2_Exemplo5.2\Aula2_Exemplo6\obj\x86\Debug\Aula2_Exemplo6.pdb

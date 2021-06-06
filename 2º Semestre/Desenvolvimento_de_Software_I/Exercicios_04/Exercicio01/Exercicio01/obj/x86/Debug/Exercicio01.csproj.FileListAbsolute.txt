@@ -1,9 +1,0 @@
-C:\Users\Oséias\documents\visual studio 2010\Projects\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
-C:\Users\Oséias\documents\visual studio 2010\Projects\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
-C:\Users\Oséias\documents\visual studio 2010\Projects\Exercicio01\Exercicio01\obj\x86\Debug\Exercicio01.exe
-C:\Users\Oséias\documents\visual studio 2010\Projects\Exercicio01\Exercicio01\obj\x86\Debug\Exercicio01.pdb
-E:\2º Semestre\TDS\Exercicios 26_10\Exercicio01\Exercicio01\obj\x86\Debug\Exercicio01.exe
-E:\2º Semestre\TDS\Exercicios 26_10\Exercicio01\Exercicio01\obj\x86\Debug\Exercicio01.pdb
-E:\2º Semestre\TDS\Exercicios 26_10\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
-E:\2º Semestre\TDS\Exercicios 26_10\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
-E:\2º Semestre\TDS\Exercicios 26_10\Exercicio01\Exercicio01\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-C:\Users\Aluno\AppData\Local\Temporary Projects\Exercicio1_Quest6\bin\Debug\Exercicio1_Quest6.exe
-C:\Users\Aluno\AppData\Local\Temporary Projects\Exercicio1_Quest6\bin\Debug\Exercicio1_Quest6.pdb
-C:\Users\Aluno\AppData\Local\Temporary Projects\Exercicio1_Quest6\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Aluno\AppData\Local\Temporary Projects\Exercicio1_Quest6\obj\x86\Debug\Exercicio1_Quest6.exe
-C:\Users\Aluno\AppData\Local\Temporary Projects\Exercicio1_Quest6\obj\x86\Debug\Exercicio1_Quest6.pdb

@@ -1,7 +1,0 @@
-C:\Users\Oséias\AppData\Local\Temporary Projects\Exercicio2_Quest1\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Oséias\AppData\Local\Temporary Projects\Exercicio2_Quest1\bin\Debug\Exercicio2_Quest1.exe
-C:\Users\Oséias\AppData\Local\Temporary Projects\Exercicio2_Quest1\bin\Debug\Exercicio2_Quest1.pdb
-C:\Users\Oséias\AppData\Local\Temporary Projects\Exercicio2_Quest1\obj\x86\Debug\Exercicio2_Quest1.exe
-C:\Users\Oséias\AppData\Local\Temporary Projects\Exercicio2_Quest1\obj\x86\Debug\Exercicio2_Quest1.pdb
-C:\Users\Oséias\Documents\Visual Studio 2010\Projects\Exercicio2_Quest1\Exercicio2_Quest1\obj\x86\Debug\Exercicio2_Quest1.exe
-C:\Users\Oséias\Documents\Visual Studio 2010\Projects\Exercicio2_Quest1\Exercicio2_Quest1\obj\x86\Debug\Exercicio2_Quest1.pdb

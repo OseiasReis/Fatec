@@ -1,5 +1,0 @@
-C:\Users\Aluno\Desktop\Aula-05 C#\Exemplos\Exemplo4\Exemplo4\bin\Debug\Exemplo4.exe
-C:\Users\Aluno\Desktop\Aula-05 C#\Exemplos\Exemplo4\Exemplo4\bin\Debug\Exemplo4.pdb
-C:\Users\Aluno\Desktop\Aula-05 C#\Exemplos\Exemplo4\Exemplo4\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Aluno\Desktop\Aula-05 C#\Exemplos\Exemplo4\Exemplo4\obj\x86\Debug\Exemplo4.exe
-C:\Users\Aluno\Desktop\Aula-05 C#\Exemplos\Exemplo4\Exemplo4\obj\x86\Debug\Exemplo4.pdb
