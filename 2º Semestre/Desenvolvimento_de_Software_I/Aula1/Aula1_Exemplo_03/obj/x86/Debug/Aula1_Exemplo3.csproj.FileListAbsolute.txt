@@ -1,0 +1,10 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula1_Exemplo3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula1_Exemplo3\bin\Debug\Aula1_Exemplo3.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula1_Exemplo3\bin\Debug\Aula1_Exemplo3.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula1_Exemplo3\obj\x86\Debug\Aula1_Exemplo3.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Aula1_Exemplo3\obj\x86\Debug\Aula1_Exemplo3.pdb
+E:\2º Semestre\TDS\Aula1_Exemplo3\Aula1_Exemplo3\obj\x86\Debug\Aula1_Exemplo3.exe
+E:\2º Semestre\TDS\Aula1_Exemplo3\Aula1_Exemplo3\obj\x86\Debug\Aula1_Exemplo3.pdb
+E:\2º Semestre\TDS\Aula1_Exemplo3\Aula1_Exemplo3\bin\Debug\Aula1_Exemplo3.exe
+E:\2º Semestre\TDS\Aula1_Exemplo3\Aula1_Exemplo3\bin\Debug\Aula1_Exemplo3.pdb
+E:\2º Semestre\TDS\Aula1_Exemplo3\Aula1_Exemplo3\obj\x86\Debug\ResolveAssemblyReference.cache
