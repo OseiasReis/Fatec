@@ -1,0 +1,1 @@
+Todos os projetos apresentados neste repositório são referentes ao periodo de JAN/2015 até JUN/2016, época de aprendizado e de nivel inferior de conhecimento.
