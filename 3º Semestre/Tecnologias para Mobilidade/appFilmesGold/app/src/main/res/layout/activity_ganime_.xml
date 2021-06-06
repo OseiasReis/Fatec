@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.eteczl.oseias.appfilmesgold.GAnime_Activity">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#c09b22">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_gravity="center"
+                android:src="@drawable/tituloanime" />
+
+        </android.support.design.widget.AppBarLayout>
+
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="121dp"
+            android:id="@+id/img1"
+            android:src="@drawable/animefilme1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="15dp"/>
+
+
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="121dp"
+            android:id="@+id/img2"
+            android:layout_marginTop="-120dp"
+            android:src="@drawable/animefilme2"
+            android:layout_marginLeft="200dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Dragon Ball Z"
+            android:id="@+id/txtFilme1"
+            android:layout_marginLeft="25dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Naruto"
+            android:id="@+id/txtFilme2"
+            android:layout_marginLeft="250dp"
+            android:layout_marginTop="-25dp" />
+
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="121dp"
+            android:id="@+id/img3"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/animefilme3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Bleach"
+            android:id="@+id/txtFilme3"
+            android:layout_marginLeft="60dp" />
+
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="121dp"
+            android:id="@+id/img4"
+            android:layout_marginLeft="200dp"
+            android:layout_marginTop="-150dp"
+            android:src="@drawable/animefilme4"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="One Piece"
+            android:id="@+id/txtFilme4"
+            android:layout_marginLeft="240dp"
+            android:layout_marginTop="5dp" />
+
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="121dp"
+            android:id="@+id/img5"
+            android:src="@drawable/animefilme5"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="15dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Sword Art Online"
+            android:id="@+id/txtFilme5"
+            android:layout_marginLeft="15dp" />
+
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="121dp"
+            android:id="@+id/img6"
+            android:layout_marginLeft="200dp"
+            android:layout_marginTop="-150dp"
+            android:src="@drawable/animefilme6"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="One Punch Man"
+            android:id="@+id/txtFilme6"
+            android:layout_marginLeft="215dp"
+            android:layout_marginTop="5dp" />
+
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="121dp"
+            android:id="@+id/img7"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/animefilme7"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Death Note"
+            android:id="@+id/txtFilme7"
+            android:layout_marginLeft="40dp" />
+
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="121dp"
+            android:id="@+id/img8"
+            android:layout_marginLeft="200dp"
+            android:layout_marginTop="-150dp"
+            android:src="@drawable/animefilme8"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Pokémon"
+            android:id="@+id/txtFilme8"
+            android:layout_marginLeft="240dp"
+            android:layout_marginTop="5dp" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="@dimen/fab_margin"
+            android:src="@android:drawable/ic_menu_revert"
+            android:onClick="ClickVoltar" />
+    </LinearLayout>
+</ScrollView>
