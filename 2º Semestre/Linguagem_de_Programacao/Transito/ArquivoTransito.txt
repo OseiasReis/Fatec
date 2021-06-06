@@ -1,0 +1,76 @@
+2
+Sorocaba
+4
+0
+5
+Osasco
+3
+0
+1
+São B. do Campo
+4
+0
+3
+São Paulo
+4
+3
+4
+Guarulhos
+1
+1
+4
+Guarulhos
+3
+2
+5
+Osasco
+5
+3
+3
+Campinas
+3
+3
+5
+Santo André
+1
+0
+3
+São Paulo
+5
+1
+5
+Sorocaba
+2
+0
+3
+Osasco
+3
+1
+1
+Campinas
+2
+0
+3
+São B. do Campo
+3
+0
+2
+Santo André
+1
+1
+4
+Osasco
+1
+3
+3
+São Paulo
+5
+0
+1
+Osasco
+3
+0
+3
+Sorocaba
+3
+1
